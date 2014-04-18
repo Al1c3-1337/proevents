@@ -1,0 +1,10 @@
+$(".deleterow").on("click",function(){
+bootbox.confirm("Are you sure?", function(result) {
+ if (result === true) 
+ {
+	$.get( "action.php?a=delroom&i="+$(this).data('row'), function( data ) {
+	location.reload();
+});
+ }
+});
+});

@@ -1,0 +1,28 @@
+ProEvents
+=======================================================================
+ProEvents is an event reservation / booking system with unique features
+not present in existing open source booking systems.
+
+Features
+=======================================================================
+- Create Rooms with individual seating maps
+- Let customers choose among free seats via a simple click
+- Several blacklisting options for "no show" cases
+- Verification via SMS
+
+License
+=======================================================================
+- GPL v3
+- You are, however, NOT allowed to use this tool for commercial
+  fishing parks without prior written consent of the author.
+
+ToDo
+=======================================================================
+- Integration of Logos
+- More SMS gateways
+- Email verification
+- Android app
+- Permanent tokens
+- Per-seat information
+- Payment integration
+- ...much more.

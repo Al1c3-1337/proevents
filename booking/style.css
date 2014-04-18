@@ -1,0 +1,10 @@
+.display-labelX {
+  font-weight: bold;
+  text-align: right;
+}
+.input-group-lg > .form-control, .input-group-lg > .input-group-addon, .input-group-lg > .input-group-btn > .btn {
+    height: 49px;
+}
+.alert {
+font-size: 12pt;
+}
